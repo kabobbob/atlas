@@ -1,4 +1,4 @@
-module ariga.io/atlas/cmd/atlas
+module github.com/kabobbob/atlas/cmd/atlas
 
 go 1.21
 
